@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35e18127.chunk.css",
+    "main.js": "/static/js/main.da03f4a7.chunk.js",
+    "main.js.map": "/static/js/main.da03f4a7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f9b6aba0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f9b6aba0.js.map",
+    "static/js/2.ecc69bc5.chunk.js": "/static/js/2.ecc69bc5.chunk.js",
+    "static/js/2.ecc69bc5.chunk.js.map": "/static/js/2.ecc69bc5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.28e0302b72362b55837b19744434143c.js": "/precache-manifest.28e0302b72362b55837b19744434143c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.35e18127.chunk.css.map": "/static/css/main.35e18127.chunk.css.map",
+    "static/js/2.ecc69bc5.chunk.js.LICENSE.txt": "/static/js/2.ecc69bc5.chunk.js.LICENSE.txt",
+    "static/media/Android_Card.jpg": "/static/media/Android_Card.1eafbd9e.jpg",
+    "static/media/Android_Icon.png": "/static/media/Android_Icon.e4fdc3b4.png",
+    "static/media/Apache-Derby_Icon.png": "/static/media/Apache-Derby_Icon.d9e54384.png",
+    "static/media/Avatar.png": "/static/media/Avatar.7230beb2.png",
+    "static/media/Back-end_Icon.ico": "/static/media/Back-end_Icon.a7d6a458.ico",
+    "static/media/Bootsfaces_Icon.png": "/static/media/Bootsfaces_Icon.12aadcad.png",
+    "static/media/CCNA-RS_Icon.png": "/static/media/CCNA-RS_Icon.2d393eac.png",
+    "static/media/CSS_Icon.png": "/static/media/CSS_Icon.ab7da72a.png",
+    "static/media/Front-end_Icon.ico": "/static/media/Front-end_Icon.b9311c69.ico",
+    "static/media/HTML_Icon.png": "/static/media/HTML_Icon.23e43821.png",
+    "static/media/IZ-Logo.png": "/static/media/IZ-Logo.117f86f3.png",
+    "static/media/JS_Icon.png": "/static/media/JS_Icon.06d4f86c.png",
+    "static/media/Java_Icon.png": "/static/media/Java_Icon.839555e8.png",
+    "static/media/Material_Icon.png": "/static/media/Material_Icon.d2b1e190.png",
+    "static/media/MySQL_Icon.png": "/static/media/MySQL_Icon.20b30f18.png",
+    "static/media/Net_Card.png": "/static/media/Net_Card.e45950de.png",
+    "static/media/Primefaces_Icon.png": "/static/media/Primefaces_Icon.7474bc10.png",
+    "static/media/Soft_Card.jpeg": "/static/media/Soft_Card.cb9c6bd2.jpeg",
+    "static/media/contact-us.svg": "/static/media/contact-us.d89dbebc.svg",
+    "static/media/home-header-dark.jpg": "/static/media/home-header-dark.b58c90c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9b6aba0.js",
+    "static/js/2.ecc69bc5.chunk.js",
+    "static/css/main.35e18127.chunk.css",
+    "static/js/main.da03f4a7.chunk.js"
+  ]
+}
