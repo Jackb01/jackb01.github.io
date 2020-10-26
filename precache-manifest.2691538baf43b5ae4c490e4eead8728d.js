@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55fc6ca73098f7c6d22c9eaab4638e48",
+    "revision": "43c47f6636077f571a59b389cb569c4a",
     "url": "/index.html"
   },
   {
-    "revision": "63f0a83ded7f07660796",
-    "url": "/static/css/main.35e18127.chunk.css"
+    "revision": "592cf9fdd83156b76d60",
+    "url": "/static/css/main.5aff2d4c.chunk.css"
   },
   {
-    "revision": "bb118fb52a7f92104583",
-    "url": "/static/js/2.ecc69bc5.chunk.js"
+    "revision": "d237c00ad2d09fdea5dd",
+    "url": "/static/js/2.827ef598.chunk.js"
   },
   {
     "revision": "4214db9a6c23cd334176e62fe82579f5",
-    "url": "/static/js/2.ecc69bc5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.827ef598.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63f0a83ded7f07660796",
-    "url": "/static/js/main.da03f4a7.chunk.js"
+    "revision": "592cf9fdd83156b76d60",
+    "url": "/static/js/main.9f5e5209.chunk.js"
   },
   {
     "revision": "32d90a7c70bb327203a7",
@@ -88,8 +88,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Net_Card.e45950de.png"
   },
   {
+    "revision": "657d144c7eda1d6709b4f2f78bc3bdcf",
+    "url": "/static/media/Online_pay.657d144c.png"
+  },
+  {
+    "revision": "55f8d57417575e540956daec23dd62e9",
+    "url": "/static/media/Payment_success.55f8d574.png"
+  },
+  {
     "revision": "7474bc10bbbfc26365d9e17f0da14e98",
     "url": "/static/media/Primefaces_Icon.7474bc10.png"
+  },
+  {
+    "revision": "9de7284eb8475530d826d34c44ada1c6",
+    "url": "/static/media/Secure_payment.9de7284e.png"
   },
   {
     "revision": "cb9c6bd221a090272db21a2e02cd48c0",
@@ -102,5 +114,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b58c90c33c744ea154553ba1bb02fb27",
     "url": "/static/media/home-header-dark.b58c90c3.jpg"
+  },
+  {
+    "revision": "b13b6dadbb30926fe071f9f5ec3a6e23",
+    "url": "/static/media/mail-sent.b13b6dad.png"
+  },
+  {
+    "revision": "b06492cd4004949883e9eaf5608c08d9",
+    "url": "/static/media/modal_bg.b06492cd.svg"
   }
 ]);
